@@ -1,0 +1,36 @@
+_repo: Nooks-and-Corners-of-Old-Paris_40306
+_version: 0.1.0
+alternative_title: Nooks and Corners of Old Paris
+contributor:
+  translator:
+    agent_name: Lawton, Frederick
+    gutenberg_agent_id: '1320'
+    url: http://www.gutenberg.org/2009/agents/1320
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cain, Georges
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '40542'
+    url: http://www.gutenberg.org/2009/agents/40542
+description: ''
+gutenberg_issued: '2012-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40306'
+  lccn: '07037532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcsh 'Paris (France) -- History'
+- !lcc 'DC'
+tableOfContents: Preface -- Introduction -- The Old City -- The Isle of Saint-Louis
+  -- The left bank of the Seine -- The right bank of the river.
+title: Nooks & Corners of Old Paris
+url: http://www.gutenberg.org/ebooks/40306
